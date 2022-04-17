@@ -35,7 +35,7 @@ see the image,
 ## Tools You Need 
 
 ### JSFiddle https://jsfiddle.net/
-JSFiddle for your real time view of the site 
+JSFiddle for your real time view of the site, 
 simply copy and paste the code at HTML section 
 
 ### HTML Formatter https://www.freeformatter.com/html-formatter.html

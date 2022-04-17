@@ -17,3 +17,9 @@ repo, or your default GitHub Page repo.
 2. Edit the necessary details and the 
 repo name `yourusername.github.io`.
 4. See the page. Enjoy !
+
+## Things That You Need To Change 
+
+see the image,
+
+![image](https://user-images.githubusercontent.com/47092464/163711454-e0995449-0a3d-4066-b4e8-f03c57a7c2ef.png)

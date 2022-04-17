@@ -28,7 +28,7 @@ see the image,
 
 ![image](https://user-images.githubusercontent.com/47092464/163711940-32644546-e241-42da-8753-e34008d63b4a.png)
 
-## Sample Site Of The Template ( With The Changes )
+## Sample Site ( With The Changes )
 
 ![image](https://user-images.githubusercontent.com/47092464/163711522-6e54a032-bf98-4c70-86f9-fa7d3d3f0c9a.png)
 

@@ -1,3 +1,5 @@
-# temptestfkdjfkdajf.github.io
+# devz-throwable
 
-temp
+this is the root of **`devz-throwable`**
+
+enjoy !!!

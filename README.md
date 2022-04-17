@@ -1,5 +1,3 @@
-# devz-throwable
+# devz-throwable TEMPLATE ONLY
 
-you have come across this site **`devz-throwable`**
-
-enjoy !!!
+this is the template of the main branch !

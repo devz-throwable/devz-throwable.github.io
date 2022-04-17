@@ -32,6 +32,22 @@ see the image,
 
 ![image](https://user-images.githubusercontent.com/47092464/163711522-6e54a032-bf98-4c70-86f9-fa7d3d3f0c9a.png)
 
+## Tools You Need 
+
+### JSFiddle https://jsfiddle.net/
+JSFiddle for your real time view of the site 
+simply copy and paste the code at HTML section 
+
+### HTML Formatter https://www.freeformatter.com/html-formatter.html
+HTML Formatter for you to fix the formatting,
+so you will not be doing it manually
+
+### W3Schools https://www.w3schools.com/
+W3Schools for your references
+
+
+
+
 
 
 
